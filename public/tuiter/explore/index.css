@@ -2,13 +2,6 @@
   margin-left: 16px;
 }
 
-.wd-page-bg {
-  background-color: black;
-  border: 1px;
-  border-style: solid;
-  border-color: rgb(47, 51, 54);
-}
-
 .wd-search-line {
   padding-top: 8px;
   width: 100%;
@@ -31,12 +24,6 @@
   width: 100%;
 }
 
-.wd-hr-gray {
-  background-color: rgb(47, 51, 54);
-  border: 0px;
-  height: 1px;
-}
-
 .wd-1px-top-margin {
   margin-top: 1px;
 }
@@ -51,21 +38,6 @@
 
 .wd-searchbar:focus {
   outline: none;
-}
-
-.wd-white-text {
-  color: white;
-  font-family: Helvetica, sans-serif;
-}
-
-.wd-blue-text {
-  color: rgb(29, 161, 242);
-  font-family: Helvetica, sans-serif;
-}
-
-.wd-grey-text {
-  color: rgb(110, 118, 125);
-  font-family: Helvetica, sans-serif;
 }
 
 .wd-trending {
@@ -104,19 +76,15 @@
   text-decoration: none;
 }
 
-.wd-pad-right-5px{
+.wd-pad-right-5px {
   padding-right: 5px;
 }
 
-.wd-margin-block-start-0{
+.wd-margin-block-start-0 {
   margin-block-start: 0px;
 }
 
-.wd-float-left {
-  float: left;
-}
-
-.wd-has-img{
+.wd-has-img {
   height: 100px;
 }
 

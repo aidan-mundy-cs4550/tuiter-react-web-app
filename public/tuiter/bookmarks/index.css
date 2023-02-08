@@ -1,0 +1,88 @@
+.wd-bookmark-header {
+  padding-left: 16px;
+  padding-bottom: 0px;
+  margin-top: 12px;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.wd-bookmark-handle {
+  padding-left: 16px;
+  padding-top: 0px;
+  padding-bottom: 12px;
+  font-size: 13px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 12px;
+}
+
+.wd-bottom-border {
+  border-bottom: 1px solid rgb(47, 51, 54);
+}
+
+.wd-avatar {
+  display: inline;
+  margin-top: 12px;
+  margin-left: 16px;
+  border-radius: 24px;
+  height: 48px;
+  width: 48px;
+}
+
+.wd-avatar-col {
+  width: 48px;
+}
+
+.wd-inline {
+  display: inline;
+}
+
+.wd-12px-top-margin {
+  margin-top: 12px;
+}
+
+.wd-author-name {
+  margin-left: 12px;
+  font-size: 15px;
+  margin-top: 12px;
+}
+
+.wd-author-handle {
+  font-size: 15px;
+}
+
+.wd-post-content {
+  max-width: 506px;
+  font-size: 15px;
+  padding-right: 16px;
+  padding-left:12px;
+  padding-bottom: 12px;
+}
+
+.wd-post-img {
+  width: 506px;
+  height: 264px;
+  margin-left: 0px;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+}
+
+.wd-img-border {
+  width: 506px;
+  margin-left: 12px;
+  overflow: hidden;
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(47, 51, 54);
+  border-radius: 12px;
+}
+
+.wd-img-text {
+  font-size: 15px;
+  margin: 12px;
+}
+
+.wd-height-post {
+  height: 500px;
+}
+
