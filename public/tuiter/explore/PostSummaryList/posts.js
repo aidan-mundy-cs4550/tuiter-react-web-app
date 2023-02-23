@@ -1,0 +1,38 @@
+export default [
+  {
+    image: 'https://repository-images.githubusercontent.com/78664391/f7e46780-6bf6-11eb-999f-8212c69d76bc',
+    topic: 'Web Development',
+    author: 'ReactJS',
+    time: '2h',
+    title: null,
+    summary: "React.js is a component based front end library that makes it very easy to build Single Page Applications or SPAs",
+    tuits: null,
+  },
+  {
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png',
+    topic: null,
+    author: 'JavaScript',
+    time: '1 day',
+    title: null,
+    summary: "JavaScript is a programming language that can run on browsers as well as desktops",
+    tuits: '123K',
+  },
+  {
+    image: 'https://www.chicagocomputerclasses.com/wp-content/uploads/2016/01/jquery.gif',
+    topic: 'Web Development',
+    author: null,
+    time: null,
+    title: 'jQuery',
+    summary: null,
+    tuits: '123K',
+  },
+  {
+    image: 'https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png',
+    topic: 'Web Development',
+    author: 'NodeJS',
+    time: '2h',
+    title: null,
+    summary: null,
+    tuits: '123K',
+  },
+ ];
